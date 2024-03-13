@@ -1396,3 +1396,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.13-20.36.08:147][  0]LogSlate: Took 0.000698 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2024.03.13-20.36.08:167][  0]LogViewport: Scene viewport resized to 1523x848, mode Windowed.
 [2024.03.13-20.36.08:721][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-20.37.51:158][887]LogDerivedDataCache: C:/Users/kuman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.073 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 309 files in 560 folders with total size 11 MiB.
+[2024.03.13-20.37.57:977][908]LogHttp: Warning: 0000047621091E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17BB6406-4CF1-E890-3DD6-9BB4C12A46D3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=b4dd93f04e318006cef26fb7cab4c1c7%7Cffdebd5d35be4c4b9383ca1419909847%7C392f1ff0-45ee-4778-b12d-a5bd0845a0f3&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.13-20.37.57:977][908]LogHttp: Warning: 0000047621091E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.13-20.37.57:977][908]LogHttp: Warning: 0000047621091E00: libcurl info message cache 0 (Found bundle for host: 0x475d0170000 [serially])
+[2024.03.13-20.37.57:977][908]LogHttp: Warning: 0000047621091E00: libcurl info message cache 1 (Re-using existing connection #0 with host datarouter.ol.epicgames.com)
+[2024.03.13-20.37.57:977][908]LogHttp: Warning: 0000047621091E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.203.137.134) port 443 (#0))
+[2024.03.13-20.37.57:977][908]LogHttp: Warning: 0000047621091E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.13-20.37.57:977][908]LogHttp: Warning: 0000047621091E00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.13-20.37.57:977][908]LogHttp: Warning: 0000047621091E00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.13-20.37.57:977][908]LogHttp: Warning: 0000047621091E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.13-20.37.57:977][908]LogHttp: Warning: 0000047621091E00: libcurl info message cache 7 (Closing connection 0)
+[2024.03.13-20.37.57:977][908]LogHttp: Warning: 0000047621091E00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-20.37.57:977][908]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17BB6406-4CF1-E890-3DD6-9BB4C12A46D3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=b4dd93f04e318006cef26fb7cab4c1c7%7Cffdebd5d35be4c4b9383ca1419909847%7C392f1ff0-45ee-4778-b12d-a5bd0845a0f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
