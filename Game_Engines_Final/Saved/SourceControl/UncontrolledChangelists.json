@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/Game-Engines-Final/Game_Engines_Final/Content/Widgets/Menu.uasset",
+				"D:/GitHub/Game-Engines-Final/Game_Engines_Final/Content/GUI_STUFF/Bouncy-Black-PERSONAL_USE_ONLY.uasset",
+				"D:/GitHub/Game-Engines-Final/Game_Engines_Final/Content/GUI_STUFF/Bouncy-Black-PERSONAL_USE_ONLY_Font.uasset",
+				"D:/GitHub/Game-Engines-Final/Game_Engines_Final/Content/GUI_STUFF/Bouncy-PERSONAL_USE_ONLY.uasset",
+				"D:/GitHub/Game-Engines-Final/Game_Engines_Final/Content/GUI_STUFF/Bouncy-PERSONAL_USE_ONLY_Font.uasset",
+				"D:/GitHub/Game-Engines-Final/Game_Engines_Final/Content/GUI_STUFF/Bouncy-Thin-PERSONAL_USE_ONLY.uasset",
+				"D:/GitHub/Game-Engines-Final/Game_Engines_Final/Content/GUI_STUFF/Bouncy-Thin-PERSONAL_USE_ONLY_Font.uasset",
+				"D:/GitHub/Game-Engines-Final/Game_Engines_Final/Content/GUI_STUFF/ButtonHover.uasset",
+				"D:/GitHub/Game-Engines-Final/Game_Engines_Final/Content/GUI_STUFF/ButtonNoraml.uasset",
+				"D:/GitHub/Game-Engines-Final/Game_Engines_Final/Content/GUI_STUFF/ButtonPressed.uasset",
+				"D:/GitHub/Game-Engines-Final/Game_Engines_Final/Content/ThirdPerson/Maps/Menu.umap",
+				"D:/GitHub/Game-Engines-Final/Game_Engines_Final/Content/StartMenu/StartMenuBase.uasset",
+				"D:/GitHub/Game-Engines-Final/Game_Engines_Final/Content/StartMenu/StartMenuController.uasset",
 				"C:/Users/kuman/OneDrive/Documents/GitHub/Game-Engines-Final/Game_Engines_Final/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
